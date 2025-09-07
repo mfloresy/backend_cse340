@@ -4,3 +4,25 @@
 *:after {
   box-sizing: border-box;
 }
+
+.grid-upgrades{
+  display: grid;
+  grid-template-columns: 1em 1em;
+  grid-template-rows: 1em 1em;
+}
+
+.grid-upgrade-img-flux{
+
+}
+
+.grid-upgrade-img-flame{
+
+}
+
+.grid-upgrade-img-bumper{
+
+}
+
+.grid-upgrade-img-hub{
+
+}
